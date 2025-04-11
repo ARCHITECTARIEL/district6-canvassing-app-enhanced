@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import json
+import os
 
 # Set page configuration
 st.set_page_config(
@@ -24,48 +26,76 @@ if 'interaction_notes' not in st.session_state:
     st.session_state.interaction_notes = {}
 if 'data_initialized' not in st.session_state:
     st.session_state.data_initialized = False
+if 'address_data' not in st.session_state:
+    st.session_state.address_data = None
+
+# Load real address data
+@st.cache_data
+def load_address_data():
+    try:
+        with open('/home/ubuntu/upload/Advanced Search 4-11-2025 (1).json', 'r') as f:
+            data = json.load(f)
+        return data
+    except Exception as e:
+        st.error(f"Error loading address data: {str(e)}")
+        return []
 
 # Real District 6 precinct data
 def get_district6_precincts():
     return [
-        {"id": "106", "name": "Precinct 106", "total_addresses": 760, "strategy": "Steve Kornell", "turnout": "88.55%"},
-        {"id": "108", "name": "Precinct 108", "total_addresses": 2773, "strategy": "Coquina Key", "turnout": "81.79%"},
-        {"id": "109", "name": "Precinct 109", "total_addresses": 2151, "strategy": "", "turnout": "77.59%"},
-        {"id": "116", "name": "Precinct 116", "total_addresses": 1511, "strategy": "Me", "turnout": "67.97%"},
-        {"id": "117", "name": "Precinct 117", "total_addresses": 1105, "strategy": "", "turnout": "62.53%"},
-        {"id": "118", "name": "Precinct 118", "total_addresses": 1175, "strategy": "OLD SE", "turnout": "85.36%"},
-        {"id": "119", "name": "Precinct 119", "total_addresses": 2684, "strategy": "USF", "turnout": "65.31%"},
-        {"id": "121", "name": "Precinct 121", "total_addresses": 922, "strategy": "RAYS", "turnout": "77.55%"},
-        {"id": "122", "name": "Precinct 122", "total_addresses": 258, "strategy": "BILL EDWARDS", "turnout": "87.60%"},
-        {"id": "123", "name": "Precinct 123", "total_addresses": 4627, "strategy": "HIPSTER $", "turnout": "85.35%"},
-        {"id": "125", "name": "Precinct 125", "total_addresses": 1301, "strategy": "ROUND LAKE", "turnout": "79.94%"},
-        {"id": "126", "name": "Precinct 126", "total_addresses": 1958, "strategy": "HIPSTER POOR", "turnout": "77.07%"},
-        {"id": "130", "name": "Precinct 130", "total_addresses": 3764, "strategy": "OLD NE", "turnout": "86.16%"}
+        {"id": "106", "name": "Precinct 106", "total_addresses": 760, "strategy": "Steve Kornell", "turnout": "88.55%", "zip_codes": ["33701", "33705"]},
+        {"id": "108", "name": "Precinct 108", "total_addresses": 2773, "strategy": "Coquina Key", "turnout": "81.79%", "zip_codes": ["33701", "33705"]},
+        {"id": "109", "name": "Precinct 109", "total_addresses": 2151, "strategy": "", "turnout": "77.59%", "zip_codes": ["33701", "33705"]},
+        {"id": "116", "name": "Precinct 116", "total_addresses": 1511, "strategy": "Me", "turnout": "67.97%", "zip_codes": ["33701", "33705"]},
+        {"id": "117", "name": "Precinct 117", "total_addresses": 1105, "strategy": "", "turnout": "62.53%", "zip_codes": ["33701", "33705"]},
+        {"id": "118", "name": "Precinct 118", "total_addresses": 1175, "strategy": "OLD SE", "turnout": "85.36%", "zip_codes": ["33701", "33705"]},
+        {"id": "119", "name": "Precinct 119", "total_addresses": 2684, "strategy": "USF", "turnout": "65.31%", "zip_codes": ["33701", "33705"]},
+        {"id": "121", "name": "Precinct 121", "total_addresses": 922, "strategy": "RAYS", "turnout": "77.55%", "zip_codes": ["33701", "33705"]},
+        {"id": "122", "name": "Precinct 122", "total_addresses": 258, "strategy": "BILL EDWARDS", "turnout": "87.60%", "zip_codes": ["33701", "33705"]},
+        {"id": "123", "name": "Precinct 123", "total_addresses": 4627, "strategy": "HIPSTER $", "turnout": "85.35%", "zip_codes": ["33701", "33705"]},
+        {"id": "125", "name": "Precinct 125", "total_addresses": 1301, "strategy": "ROUND LAKE", "turnout": "79.94%", "zip_codes": ["33701", "33705"]},
+        {"id": "126", "name": "Precinct 126", "total_addresses": 1958, "strategy": "HIPSTER POOR", "turnout": "77.07%", "zip_codes": ["33701", "33705"]},
+        {"id": "130", "name": "Precinct 130", "total_addresses": 3764, "strategy": "OLD NE", "turnout": "86.16%", "zip_codes": ["33701", "33705"]}
     ]
 
-def get_sample_addresses(precinct_id):
+# Get real addresses for a precinct
+def get_real_addresses(precinct_id):
+    if st.session_state.address_data is None:
+        st.session_state.address_data = load_address_data()
+    
+    # Get the zip codes for this precinct
+    precincts = get_district6_precincts()
+    selected_precinct = next((p for p in precincts if p['id'] == precinct_id), None)
+    
+    if not selected_precinct:
+        return []
+    
+    zip_codes = selected_precinct.get('zip_codes', [])
+    
+    # Filter addresses by ZIP code
     addresses = []
-    streets = ["MAIN ST", "OAK AVE", "PINE ST", "MAPLE DR", "CEDAR LN", "BEACH BLVD", "CENTRAL AVE"]
-    property_types = ["Single Family", "Condominium", "Duplex", "Apartment", "Townhouse"]
-    owner_occupied = ["Yes", "No"]
+    for address in st.session_state.address_data:
+        if 'STR_ZIP' in address and address['STR_ZIP'] in zip_codes:
+            # Create a unique ID for this address
+            address_id = f"{precinct_id}_{address.get('PARCEL_NUMBER', '')}"
+            
+            # Format the address data
+            formatted_address = {
+                "id": address_id,
+                "precinct_id": precinct_id,
+                "owner1": address.get('OWNER1', 'Unknown'),
+                "owner2": address.get('OWNER2', ''),
+                "address": f"{address.get('STR_NUM', '')} {address.get('STR_NAME', '')} {address.get('STR_UNIT', '') or ''}".strip(),
+                "city_zip": address.get('SITE_CITYZIP', ''),
+                "property_type": address.get('PROPERTY_USE', 'Unknown').split(' ')[0],
+                "owner_occupied": "Yes" if address.get('HX_YN', 'No') == 'Yes' else "No",
+                "lat": 27.773056 + (hash(address_id) % 1000) / 100000,  # Generate pseudo-random coordinates for demo
+                "lon": -82.639999 + (hash(address_id[::-1]) % 1000) / 100000  # centered around St. Petersburg
+            }
+            addresses.append(formatted_address)
     
-    # Generate sample addresses based on precinct
-    for i in range(20):
-        street = streets[i % len(streets)]
-        street_num = 100 + i * 10
-        
-        addresses.append({
-            "id": f"{precinct_id}_{i}",
-            "precinct_id": precinct_id,
-            "owner1": f"RESIDENT, DISTRICT 6 {i}",
-            "owner2": "RESIDENT, FAMILY" if i % 3 == 0 else "",
-            "address": f"{street_num} {street}",
-            "city_zip": "ST PETERSBURG, FL 33701",
-            "property_type": property_types[i % len(property_types)],
-            "owner_occupied": owner_occupied[i % len(owner_occupied)]
-        })
-    
-    return addresses
+    # Limit to 20 addresses for demo purposes
+    return addresses[:20]
 
 # Real census data
 def get_census_data():
@@ -148,8 +178,8 @@ def add_interaction_note(address_id, note_text, tags):
 def initialize_sample_data():
     if not st.session_state.data_initialized:
         # Add some sample interaction notes
-        sample_addresses = get_sample_addresses("123")
-        for i in range(5):
+        sample_addresses = get_real_addresses("123")
+        for i in range(min(5, len(sample_addresses))):
             address_id = sample_addresses[i]["id"]
             st.session_state.visited_addresses.add(address_id)
             
@@ -203,7 +233,7 @@ if st.session_state.current_tab == "Home":
         # Load addresses if precinct changed
         if st.session_state.selected_precinct != precinct_id:
             st.session_state.selected_precinct = precinct_id
-            st.session_state.addresses = get_sample_addresses(precinct_id)
+            st.session_state.addresses = get_real_addresses(precinct_id)
             st.rerun()
         
         # Display precinct info
@@ -243,8 +273,21 @@ if st.session_state.current_tab == "Home":
                     st.error("**Strategic Insight:** Strong Republican precinct. Focus on moderate messaging and identifying supportive voters.")
         
         # Display addresses
-        if 'addresses' in st.session_state:
+        if 'addresses' in st.session_state and st.session_state.addresses:
             st.subheader("Addresses to Visit")
+            
+            # Map view of addresses
+            if st.session_state.addresses:
+                st.subheader("Map View")
+                
+                # Create a DataFrame for the map
+                map_data = pd.DataFrame({
+                    'lat': [a.get('lat', 0) for a in st.session_state.addresses],
+                    'lon': [a.get('lon', 0) for a in st.session_state.addresses]
+                })
+                
+                # Display the map
+                st.map(map_data)
             
             # Progress tracking
             total_addresses = len(st.session_state.addresses)
@@ -268,7 +311,8 @@ if st.session_state.current_tab == "Home":
             with col2:
                 show_not_visited = st.checkbox("Show Not Visited", value=True)
             with col3:
-                property_filter = st.selectbox("Property Type", ["All"] + list(set([a['property_type'] for a in st.session_state.addresses])))
+                property_types = ["All"] + list(set([a.get('property_type', 'Unknown') for a in st.session_state.addresses]))
+                property_filter = st.selectbox("Property Type", property_types)
             
             # Apply filters
             filtered_addresses = st.session_state.addresses.copy()
@@ -277,7 +321,7 @@ if st.session_state.current_tab == "Home":
             if not show_not_visited:
                 filtered_addresses = [a for a in filtered_addresses if a['id'] in st.session_state.visited_addresses]
             if property_filter != "All":
-                filtered_addresses = [a for a in filtered_addresses if a['property_type'] == property_filter]
+                filtered_addresses = [a for a in filtered_addresses if a.get('property_type', 'Unknown') == property_filter]
             
             # Address list
             for i, address in enumerate(filtered_addresses):
@@ -371,6 +415,8 @@ if st.session_state.current_tab == "Home":
                                         st.error("Please enter some notes before saving.")
                     
                     st.markdown("---")
+        else:
+            st.warning("No addresses found for this precinct. Please try another precinct.")
     else:
         st.info("Please select a precinct to begin canvassing")
 
