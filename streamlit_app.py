@@ -4,11 +4,8 @@ import json
 import os
 import sqlite3
 from datetime import datetime
-import folium
-from streamlit_folium import folium_static
 import matplotlib.pyplot as plt
-import geopandas as gpd
-from folium.plugins import MarkerCluster, LocateControl
+import numpy as np
 
 # Set page configuration
 st.set_page_config(
@@ -65,20 +62,6 @@ def init_db():
     
     conn.commit()
 
-# Load real precinct data from shapefile
-@st.cache_data
-def load_precinct_boundaries():
-    try:
-        # Path to the shapefile
-        shapefile_path = "PrecinctsDistrict6.shp"
-        
-        # Read the shapefile
-        gdf = gpd.read_file(shapefile_path)
-        return gdf
-    except Exception as e:
-        st.error(f"Error loading precinct boundaries: {e}")
-        return None
-
 # Load real voter data from JSON
 @st.cache_data
 def load_voter_data():
@@ -110,46 +93,32 @@ def load_election_results():
         st.error(f"Error loading election results: {e}")
         return pd.DataFrame()
 
-# Extract precinct information from the shapefile
+# Extract precinct information
 @st.cache_data
 def load_precinct_data():
     try:
-        gdf = load_precinct_boundaries()
         election_df = load_election_results()
         
-        if gdf is None:
-            # Fallback to sample data if shapefile can't be loaded
+        if election_df.empty:
+            # Fallback to sample data if election data can't be loaded
             return [
                 {"id": "123", "name": "Precinct 123", "total_addresses": 1253},
                 {"id": "125", "name": "Precinct 125", "total_addresses": 2577},
                 {"id": "130", "name": "Precinct 130", "total_addresses": 1615}
             ]
         
-        # Extract precinct information
+        # Extract precinct information from election data
         precincts = []
-        for _, row in gdf.iterrows():
-            precinct_id = str(row.get('PRECINCT', ''))
-            if precinct_id:
-                # Try to get turnout data from election results
-                turnout = None
-                ballots_cast = None
-                registered_voters = None
-                
-                if not election_df.empty:
-                    precinct_data = election_df[election_df['Precinct'] == float(precinct_id)]
-                    if not precinct_data.empty:
-                        turnout = precinct_data['Voter Turnout'].values[0]
-                        ballots_cast = precinct_data['Ballots Cast'].values[0]
-                        registered_voters = precinct_data['Active Registered Voters'].values[0]
-                
-                precincts.append({
-                    "id": precinct_id,
-                    "name": f"Precinct {precinct_id}",
-                    "total_addresses": 0,  # Will be updated when we process voter data
-                    "turnout": turnout,
-                    "ballots_cast": ballots_cast,
-                    "registered_voters": registered_voters
-                })
+        for _, row in election_df.iterrows():
+            precinct_id = str(int(row['Precinct']))
+            precincts.append({
+                "id": precinct_id,
+                "name": f"Precinct {precinct_id}",
+                "total_addresses": 0,  # Will be updated when we process voter data
+                "turnout": row['Voter Turnout'],
+                "ballots_cast": row['Ballots Cast'],
+                "registered_voters": row['Active Registered Voters']
+            })
         
         return precincts
     except Exception as e:
@@ -192,17 +161,8 @@ def load_precinct_addresses(precinct_id):
         # Get all voter data
         voter_data = load_voter_data()
         
-        # Get precinct boundaries
-        gdf = load_precinct_boundaries()
-        
-        if not voter_data or gdf is None:
+        if not voter_data:
             # Fallback to sample data
-            return generate_sample_addresses(precinct_id)
-        
-        # Filter the precinct boundary
-        precinct_boundary = gdf[gdf['PRECINCT'] == int(precinct_id)]
-        
-        if precinct_boundary.empty:
             return generate_sample_addresses(precinct_id)
         
         # Convert addresses to GeoDataFrame
@@ -322,68 +282,6 @@ def get_stats():
         ]
     }
 
-# Create a map with addresses and precinct boundaries
-def create_map(addresses, center=None, precinct_id=None):
-    # Default center if none provided
-    if center is None:
-        center = [27.77, -82.64]
-    
-    # Create map
-    m = folium.Map(location=center, zoom_start=14, tiles="OpenStreetMap")
-    
-    # Add locate control
-    LocateControl().add_to(m)
-    
-    # Try to add precinct boundary
-    try:
-        if precinct_id:
-            gdf = load_precinct_boundaries()
-            if gdf is not None:
-                # Filter to the selected precinct
-                precinct_boundary = gdf[gdf['PRECINCT'] == int(precinct_id)]
-                
-                if not precinct_boundary.empty:
-                    # Convert to GeoJSON
-                    geo_json = folium.GeoJson(
-                        precinct_boundary,
-                        style_function=lambda x: {
-                            'fillColor': '#3186cc',
-                            'color': '#000000',
-                            'weight': 2,
-                            'fillOpacity': 0.2
-                        },
-                        name=f"Precinct {precinct_id}"
-                    )
-                    geo_json.add_to(m)
-    except Exception as e:
-        st.warning(f"Could not display precinct boundary: {e}")
-    
-    # Create marker cluster
-    marker_cluster = MarkerCluster().add_to(m)
-    
-    # Add markers for each address
-    for address in addresses:
-        if address.get('latitude') and address.get('longitude'):
-            # Create popup content
-            owner = f"{address.get('owner1', 'Unknown')} {address.get('owner2', '')}"
-            address_text = f"{address.get('address', '')}, {address.get('city_zip', '')}"
-            property_info = f"{address.get('property_type', 'Unknown')} • {'Owner Occupied' if address.get('owner_occupied') == 'Yes' else 'Not Owner Occupied'}"
-            
-            popup_html = f"""
-            <strong>{owner}</strong><br>
-            {address_text}<br>
-            <small>{property_info}</small>
-            """
-            
-            # Add marker
-            folium.Marker(
-                location=[address['latitude'], address['longitude']],
-                popup=folium.Popup(popup_html, max_width=300),
-                icon=folium.Icon(color='blue', icon="home", prefix="fa")
-            ).add_to(marker_cluster)
-    
-    return m
-
 # Get interaction notes for an address
 def get_interaction_notes(address_id):
     conn = get_connection()
@@ -475,16 +373,10 @@ if st.session_state.current_tab == "Home":
             st.session_state.visited_addresses = set()
             st.rerun()
         
-        # Display map
+        # Display map placeholder (since we can't use folium)
         if st.session_state.addresses:
-            # Find center of addresses
-            lats = [a['latitude'] for a in st.session_state.addresses if 'latitude' in a]
-            lngs = [a['longitude'] for a in st.session_state.addresses if 'longitude' in a]
-            if lats and lngs:
-                center = [sum(lats)/len(lats), sum(lngs)/len(lngs)]
-                m = create_map(st.session_state.addresses, center, precinct_id)
-                st.subheader("Precinct Map")
-                folium_static(m, width=800, height=500)
+            st.subheader("Precinct Map")
+            st.info("Interactive map is available in the full version. This simplified version shows address listings only.")
             
             # Progress tracking
             total_addresses = len(st.session_state.addresses)
