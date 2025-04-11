@@ -4,8 +4,6 @@ import json
 import os
 import sqlite3
 from datetime import datetime
-import matplotlib.pyplot as plt
-import numpy as np
 
 # Set page configuration
 st.set_page_config(
@@ -560,7 +558,7 @@ elif st.session_state.current_tab == "Demographics":
     with zip_tabs[2]:
         st.header("Demographic Comparison")
         
-        # Create comparison charts
+        # Create comparison charts using Streamlit's native charting
         comparison_data = {
             "ZIP Code": ["33701", "33705"],
             "Population": [census_data["33701"]["total_population"], census_data["33705"]["total_population"]],
@@ -570,31 +568,28 @@ elif st.session_state.current_tab == "Demographics":
         }
         
         # Population comparison
-        fig1, ax1 = plt.subplots(figsize=(10, 6))
-        ax1.bar(comparison_data["ZIP Code"], comparison_data["Population"], color=['#3186cc', '#cc3131'])
-        ax1.set_title("Population Comparison")
-        ax1.set_ylabel("Population")
-        for i, v in enumerate(comparison_data["Population"]):
-            ax1.text(i, v + 500, f"{v:,}", ha='center')
-        st.pyplot(fig1)
+        st.subheader("Population Comparison")
+        pop_df = pd.DataFrame({
+            "ZIP Code": comparison_data["ZIP Code"],
+            "Population": comparison_data["Population"]
+        })
+        st.bar_chart(pop_df.set_index("ZIP Code"))
         
         # Income comparison
-        fig2, ax2 = plt.subplots(figsize=(10, 6))
-        ax2.bar(comparison_data["ZIP Code"], comparison_data["Median Income"], color=['#3186cc', '#cc3131'])
-        ax2.set_title("Median Household Income Comparison")
-        ax2.set_ylabel("Income ($)")
-        for i, v in enumerate(comparison_data["Median Income"]):
-            ax2.text(i, v + 2000, f"${v:,}", ha='center')
-        st.pyplot(fig2)
+        st.subheader("Median Household Income Comparison")
+        income_df = pd.DataFrame({
+            "ZIP Code": comparison_data["ZIP Code"],
+            "Median Income": comparison_data["Median Income"]
+        })
+        st.bar_chart(income_df.set_index("ZIP Code"))
         
         # Education comparison
-        fig3, ax3 = plt.subplots(figsize=(10, 6))
-        ax3.bar(comparison_data["ZIP Code"], comparison_data["Bachelor's Degree+"], color=['#3186cc', '#cc3131'])
-        ax3.set_title("Education Level Comparison (Bachelor's Degree or Higher)")
-        ax3.set_ylabel("Percentage (%)")
-        for i, v in enumerate(comparison_data["Bachelor's Degree+"]):
-            ax3.text(i, v + 2, f"{v}%", ha='center')
-        st.pyplot(fig3)
+        st.subheader("Education Level Comparison (Bachelor's Degree or Higher)")
+        edu_df = pd.DataFrame({
+            "ZIP Code": comparison_data["ZIP Code"],
+            "Bachelor's Degree+": comparison_data["Bachelor's Degree+"]
+        })
+        st.bar_chart(edu_df.set_index("ZIP Code"))
         
         st.subheader("Canvassing Strategy Implications")
         st.markdown("""
@@ -633,29 +628,12 @@ elif st.session_state.current_tab == "Election History":
         # Display precinct-level data
         st.subheader("Precinct-Level Turnout")
         
-        # Create a bar chart of turnout by precinct
-        fig, ax = plt.subplots(figsize=(12, 8))
+        # Create a bar chart of turnout by precinct using Streamlit's native charting
+        sorted_df = election_df.sort_values('Voter Turnout', ascending=False).copy()
+        sorted_df['Turnout Percentage'] = sorted_df['Voter Turnout'] * 100
+        sorted_df['Precinct'] = sorted_df['Precinct'].astype(str)
         
-        # Sort by turnout for better visualization
-        sorted_df = election_df.sort_values('Voter Turnout', ascending=False)
-        
-        # Create the bar chart
-        bars = ax.bar(sorted_df['Precinct'].astype(str), sorted_df['Voter Turnout'] * 100)
-        
-        # Add labels and formatting
-        ax.set_xlabel('Precinct')
-        ax.set_ylabel('Voter Turnout (%)')
-        ax.set_title('Voter Turnout by Precinct')
-        ax.set_ylim(0, 100)
-        
-        # Add turnout percentage labels on top of bars
-        for bar in bars:
-            height = bar.get_height()
-            ax.text(bar.get_x() + bar.get_width()/2., height + 1,
-                    f'{height:.1f}%', ha='center', va='bottom')
-        
-        # Display the chart
-        st.pyplot(fig)
+        st.bar_chart(sorted_df.set_index('Precinct')['Turnout Percentage'])
         
         # Display the raw data in a table
         st.subheader("Precinct Data Table")
@@ -729,17 +707,20 @@ elif st.session_state.current_tab == "Stats":
     # Response breakdown
     st.subheader("Response Breakdown")
     
-    # Prepare data for chart
+    # Prepare data for chart using Streamlit's native charting
     response_labels = list(stats['response_breakdown'].keys())
     response_values = list(stats['response_breakdown'].values())
     
     if response_labels and response_values:
-        # Create a pie chart
-        fig, ax = plt.subplots(figsize=(10, 6))
-        colors = ['#4CAF50', '#FF9800', '#2196F3', '#F44336', '#9E9E9E']
-        ax.pie(response_values, labels=response_labels, autopct='%1.1f%%', startangle=90, colors=colors)
-        ax.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle
-        st.pyplot(fig)
+        # Create a bar chart
+        response_df = pd.DataFrame({
+            'Category': response_labels,
+            'Count': response_values
+        })
+        st.bar_chart(response_df.set_index('Category'))
+        
+        # Also show as a table for clarity
+        st.table(response_df)
     else:
         st.info("No response data available yet")
     
@@ -781,26 +762,15 @@ elif st.session_state.current_tab == "Stats":
         "donation": 2
     }
     
-    # Create a horizontal bar chart for tags
-    fig, ax = plt.subplots(figsize=(10, 6))
-    
+    # Create a horizontal bar chart for tags using Streamlit's native charting
     # Sort tags by frequency
     sorted_tags = dict(sorted(tag_data.items(), key=lambda item: item[1], reverse=True))
+    tag_df = pd.DataFrame({
+        'Tag': list(sorted_tags.keys()),
+        'Count': list(sorted_tags.values())
+    })
     
-    # Create the horizontal bar chart
-    y_pos = range(len(sorted_tags))
-    ax.barh(y_pos, sorted_tags.values(), align='center')
-    ax.set_yticks(y_pos)
-    ax.set_yticklabels(sorted_tags.keys())
-    ax.invert_yaxis()  # Labels read top-to-bottom
-    ax.set_xlabel('Frequency')
-    ax.set_title('Interaction Tags Frequency')
-    
-    # Add value labels
-    for i, v in enumerate(sorted_tags.values()):
-        ax.text(v + 0.1, i, str(v), va='center')
-    
-    st.pyplot(fig)
+    st.bar_chart(tag_df.set_index('Tag'))
 
 elif st.session_state.current_tab == "Settings":
     st.title("Settings")
