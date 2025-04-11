@@ -1,0 +1,5740 @@
+[
+  {
+    "precinct_id": "101.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 3719,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.102771"
+  },
+  {
+    "precinct_id": "102.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 1736,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.102919"
+  },
+  {
+    "precinct_id": "103.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 709,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103035"
+  },
+  {
+    "precinct_id": "104.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1750,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103144"
+  },
+  {
+    "precinct_id": "105.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 3626,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103242"
+  },
+  {
+    "precinct_id": "106.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 732,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103333"
+  },
+  {
+    "precinct_id": "107.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1867,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103422"
+  },
+  {
+    "precinct_id": "108.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2772,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103502"
+  },
+  {
+    "precinct_id": "109.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2218,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103580"
+  },
+  {
+    "precinct_id": "110.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 266,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103656"
+  },
+  {
+    "precinct_id": "111.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 534,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103733"
+  },
+  {
+    "precinct_id": "112.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1307,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103808"
+  },
+  {
+    "precinct_id": "113.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1590,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103883"
+  },
+  {
+    "precinct_id": "114.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 68,
+    "target_households": 1339,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.103955"
+  },
+  {
+    "precinct_id": "115.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 1381,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104030"
+  },
+  {
+    "precinct_id": "116.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1585,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104103"
+  },
+  {
+    "precinct_id": "117.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 61,
+    "target_households": 1289,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104178"
+  },
+  {
+    "precinct_id": "118.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 1345,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104250"
+  },
+  {
+    "precinct_id": "119.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 58,
+    "target_households": 2870,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104323"
+  },
+  {
+    "precinct_id": "120.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 65,
+    "target_households": 3130,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104397"
+  },
+  {
+    "precinct_id": "121.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 772,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104469"
+  },
+  {
+    "precinct_id": "122.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 270,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104545"
+  },
+  {
+    "precinct_id": "123.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 78,
+    "target_households": 3419,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104616"
+  },
+  {
+    "precinct_id": "125.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 1706,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104691"
+  },
+  {
+    "precinct_id": "126.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 65,
+    "target_households": 888,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104765"
+  },
+  {
+    "precinct_id": "127.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 1812,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104836"
+  },
+  {
+    "precinct_id": "128.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 2547,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104908"
+  },
+  {
+    "precinct_id": "129.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2584,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.104980"
+  },
+  {
+    "precinct_id": "130.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 3167,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105053"
+  },
+  {
+    "precinct_id": "131.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 68,
+    "target_households": 1414,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105150"
+  },
+  {
+    "precinct_id": "132.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 68,
+    "target_households": 1566,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105310"
+  },
+  {
+    "precinct_id": "133.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 1667,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105391"
+  },
+  {
+    "precinct_id": "134.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1569,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105469"
+  },
+  {
+    "precinct_id": "135.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 3449,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105543"
+  },
+  {
+    "precinct_id": "136.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 1860,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105619"
+  },
+  {
+    "precinct_id": "137.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1512,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105693"
+  },
+  {
+    "precinct_id": "138.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 2797,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105766"
+  },
+  {
+    "precinct_id": "139.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1759,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105840"
+  },
+  {
+    "precinct_id": "140.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 78,
+    "target_households": 4612,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105912"
+  },
+  {
+    "precinct_id": "141.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 2102,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.105984"
+  },
+  {
+    "precinct_id": "142.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 2352,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106057"
+  },
+  {
+    "precinct_id": "143.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 2182,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106130"
+  },
+  {
+    "precinct_id": "144.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 3952,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106204"
+  },
+  {
+    "precinct_id": "145.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 1871,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106277"
+  },
+  {
+    "precinct_id": "146.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 78,
+    "target_households": 1169,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106349"
+  },
+  {
+    "precinct_id": "147.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 1156,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106422"
+  },
+  {
+    "precinct_id": "148.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 62,
+    "target_households": 5342,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106494"
+  },
+  {
+    "precinct_id": "149.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 65,
+    "target_households": 1092,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106585"
+  },
+  {
+    "precinct_id": "150.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 3980,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106660"
+  },
+  {
+    "precinct_id": "151.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1636,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106732"
+  },
+  {
+    "precinct_id": "152.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 1907,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106805"
+  },
+  {
+    "precinct_id": "153.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 4083,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106878"
+  },
+  {
+    "precinct_id": "154.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 87,
+    "target_households": 1155,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.106950"
+  },
+  {
+    "precinct_id": "155.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 4286,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107022"
+  },
+  {
+    "precinct_id": "156.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 2474,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107094"
+  },
+  {
+    "precinct_id": "157.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 774,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107166"
+  },
+  {
+    "precinct_id": "158.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 1728,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107237"
+  },
+  {
+    "precinct_id": "159.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 67,
+    "target_households": 3678,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107307"
+  },
+  {
+    "precinct_id": "160.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 88,
+    "target_households": 2471,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107379"
+  },
+  {
+    "precinct_id": "161.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 3772,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107451"
+  },
+  {
+    "precinct_id": "162.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 5253,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107528"
+  },
+  {
+    "precinct_id": "163.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 1403,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107602"
+  },
+  {
+    "precinct_id": "164.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 40,
+    "target_households": 81,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107675"
+  },
+  {
+    "precinct_id": "165.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 52,
+    "target_households": 23,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107747"
+  },
+  {
+    "precinct_id": "200.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 1691,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107819"
+  },
+  {
+    "precinct_id": "201.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 2832,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107895"
+  },
+  {
+    "precinct_id": "202.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 2144,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.107968"
+  },
+  {
+    "precinct_id": "203.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1536,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108038"
+  },
+  {
+    "precinct_id": "204.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 62,
+    "target_households": 789,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108100"
+  },
+  {
+    "precinct_id": "205.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 66,
+    "target_households": 1811,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108161"
+  },
+  {
+    "precinct_id": "206.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 984,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108219"
+  },
+  {
+    "precinct_id": "207.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 899,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108276"
+  },
+  {
+    "precinct_id": "208.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 87,
+    "target_households": 2968,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108333"
+  },
+  {
+    "precinct_id": "209.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 2338,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108397"
+  },
+  {
+    "precinct_id": "210.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 1876,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108463"
+  },
+  {
+    "precinct_id": "211.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 740,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108522"
+  },
+  {
+    "precinct_id": "212.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 916,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108582"
+  },
+  {
+    "precinct_id": "213.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 1251,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108648"
+  },
+  {
+    "precinct_id": "214.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 3919,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108711"
+  },
+  {
+    "precinct_id": "215.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 1394,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108773"
+  },
+  {
+    "precinct_id": "216.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2142,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108843"
+  },
+  {
+    "precinct_id": "217.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 40,
+    "target_households": 20,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108904"
+  },
+  {
+    "precinct_id": "218.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 541,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.108965"
+  },
+  {
+    "precinct_id": "219.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1350,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109023"
+  },
+  {
+    "precinct_id": "220.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 1104,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109082"
+  },
+  {
+    "precinct_id": "221.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 1944,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109145"
+  },
+  {
+    "precinct_id": "222.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 3688,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109234"
+  },
+  {
+    "precinct_id": "223.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 105,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109305"
+  },
+  {
+    "precinct_id": "224.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 1566,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109364"
+  },
+  {
+    "precinct_id": "225.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 1821,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109424"
+  },
+  {
+    "precinct_id": "226.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 864,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109482"
+  },
+  {
+    "precinct_id": "227.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 69,
+    "target_households": 2106,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109541"
+  },
+  {
+    "precinct_id": "228.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 1009,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109600"
+  },
+  {
+    "precinct_id": "229.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 2183,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109667"
+  },
+  {
+    "precinct_id": "230.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1660,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109733"
+  },
+  {
+    "precinct_id": "231.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2967,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109793"
+  },
+  {
+    "precinct_id": "232.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 78,
+    "target_households": 2271,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109852"
+  },
+  {
+    "precinct_id": "233.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 1704,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109916"
+  },
+  {
+    "precinct_id": "234.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 1628,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.109982"
+  },
+  {
+    "precinct_id": "235.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1941,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110049"
+  },
+  {
+    "precinct_id": "236.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 69,
+    "target_households": 2306,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110118"
+  },
+  {
+    "precinct_id": "237.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 2249,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110177"
+  },
+  {
+    "precinct_id": "238.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1896,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110237"
+  },
+  {
+    "precinct_id": "239.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 3193,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110297"
+  },
+  {
+    "precinct_id": "240.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 1832,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110355"
+  },
+  {
+    "precinct_id": "241.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 2208,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110412"
+  },
+  {
+    "precinct_id": "242.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 67,
+    "target_households": 2532,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110471"
+  },
+  {
+    "precinct_id": "243.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 61,
+    "target_households": 1698,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110538"
+  },
+  {
+    "precinct_id": "244.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 1747,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110600"
+  },
+  {
+    "precinct_id": "245.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 1642,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110663"
+  },
+  {
+    "precinct_id": "246.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 69,
+    "target_households": 1535,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110728"
+  },
+  {
+    "precinct_id": "247.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 67,
+    "target_households": 2570,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110794"
+  },
+  {
+    "precinct_id": "248.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 66,
+    "target_households": 2294,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110858"
+  },
+  {
+    "precinct_id": "249.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 68,
+    "target_households": 905,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110922"
+  },
+  {
+    "precinct_id": "250.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 2973,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.110984"
+  },
+  {
+    "precinct_id": "251.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 2490,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111043"
+  },
+  {
+    "precinct_id": "252.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 2198,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111088"
+  },
+  {
+    "precinct_id": "253.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 50,
+    "target_households": 12,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111133"
+  },
+  {
+    "precinct_id": "254.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 1347,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111180"
+  },
+  {
+    "precinct_id": "255.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1922,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111223"
+  },
+  {
+    "precinct_id": "256.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 1674,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111273"
+  },
+  {
+    "precinct_id": "257.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 2744,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111317"
+  },
+  {
+    "precinct_id": "258.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1108,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111361"
+  },
+  {
+    "precinct_id": "259.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 69,
+    "target_households": 6199,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111406"
+  },
+  {
+    "precinct_id": "260.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 1540,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111452"
+  },
+  {
+    "precinct_id": "261.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 68,
+    "target_households": 2109,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111497"
+  },
+  {
+    "precinct_id": "262.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 0,
+    "target_households": 0,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111541"
+  },
+  {
+    "precinct_id": "263.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 1794,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111586"
+  },
+  {
+    "precinct_id": "264.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 67,
+    "target_households": 296,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111654"
+  },
+  {
+    "precinct_id": "265.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 2093,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111728"
+  },
+  {
+    "precinct_id": "266.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 3124,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111801"
+  },
+  {
+    "precinct_id": "267.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 540,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111872"
+  },
+  {
+    "precinct_id": "268.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1614,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111920"
+  },
+  {
+    "precinct_id": "269.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 1806,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.111966"
+  },
+  {
+    "precinct_id": "270.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 244,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112011"
+  },
+  {
+    "precinct_id": "271.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 103,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112055"
+  },
+  {
+    "precinct_id": "272.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1235,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112099"
+  },
+  {
+    "precinct_id": "273.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 666,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112143"
+  },
+  {
+    "precinct_id": "274.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 2064,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112187"
+  },
+  {
+    "precinct_id": "275.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 816,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112245"
+  },
+  {
+    "precinct_id": "301.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 87,
+    "target_households": 1145,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112288"
+  },
+  {
+    "precinct_id": "302.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 2265,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112333"
+  },
+  {
+    "precinct_id": "303.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1873,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112376"
+  },
+  {
+    "precinct_id": "304.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 1156,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112419"
+  },
+  {
+    "precinct_id": "305.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 2779,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112462"
+  },
+  {
+    "precinct_id": "306.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 2803,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112506"
+  },
+  {
+    "precinct_id": "307.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 3685,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112549"
+  },
+  {
+    "precinct_id": "308.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1140,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112605"
+  },
+  {
+    "precinct_id": "309.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 4805,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112650"
+  },
+  {
+    "precinct_id": "310.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 2782,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112715"
+  },
+  {
+    "precinct_id": "311.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 1475,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112774"
+  },
+  {
+    "precinct_id": "312.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 1499,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112819"
+  },
+  {
+    "precinct_id": "313.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 1869,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112863"
+  },
+  {
+    "precinct_id": "314.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 1373,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112907"
+  },
+  {
+    "precinct_id": "315.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 1323,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.112961"
+  },
+  {
+    "precinct_id": "316.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 647,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113022"
+  },
+  {
+    "precinct_id": "317.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 3110,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113078"
+  },
+  {
+    "precinct_id": "318.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 1453,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113137"
+  },
+  {
+    "precinct_id": "319.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 371,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113216"
+  },
+  {
+    "precinct_id": "320.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2590,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113291"
+  },
+  {
+    "precinct_id": "321.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 1175,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113360"
+  },
+  {
+    "precinct_id": "322.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 5370,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113432"
+  },
+  {
+    "precinct_id": "323.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 2148,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113499"
+  },
+  {
+    "precinct_id": "324.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 67,
+    "target_households": 1554,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113564"
+  },
+  {
+    "precinct_id": "325.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 2395,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113625"
+  },
+  {
+    "precinct_id": "326.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1907,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113672"
+  },
+  {
+    "precinct_id": "327.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 3386,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113717"
+  },
+  {
+    "precinct_id": "328.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 1721,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113771"
+  },
+  {
+    "precinct_id": "329.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 69,
+    "target_households": 1944,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113833"
+  },
+  {
+    "precinct_id": "330.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 65,
+    "target_households": 1648,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113879"
+  },
+  {
+    "precinct_id": "331.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 64,
+    "target_households": 3565,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113923"
+  },
+  {
+    "precinct_id": "332.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 0,
+    "target_households": 0,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.113969"
+  },
+  {
+    "precinct_id": "333.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 1908,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114036"
+  },
+  {
+    "precinct_id": "334.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 2178,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114106"
+  },
+  {
+    "precinct_id": "335.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 78,
+    "target_households": 2465,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114173"
+  },
+  {
+    "precinct_id": "336.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2070,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114232"
+  },
+  {
+    "precinct_id": "337.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 3435,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114278"
+  },
+  {
+    "precinct_id": "338.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 2111,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114322"
+  },
+  {
+    "precinct_id": "339.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 2493,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114368"
+  },
+  {
+    "precinct_id": "340.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 1869,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114421"
+  },
+  {
+    "precinct_id": "341.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1735,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114477"
+  },
+  {
+    "precinct_id": "342.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1904,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114522"
+  },
+  {
+    "precinct_id": "343.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 2270,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114770"
+  },
+  {
+    "precinct_id": "344.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 3485,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114829"
+  },
+  {
+    "precinct_id": "345.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 3415,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114891"
+  },
+  {
+    "precinct_id": "346.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 62,
+    "target_households": 2454,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114939"
+  },
+  {
+    "precinct_id": "347.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 2541,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.114994"
+  },
+  {
+    "precinct_id": "348.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 2367,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115064"
+  },
+  {
+    "precinct_id": "349.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 2745,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115126"
+  },
+  {
+    "precinct_id": "350.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1674,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115194"
+  },
+  {
+    "precinct_id": "401.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 88,
+    "target_households": 3296,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115242"
+  },
+  {
+    "precinct_id": "402.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 87,
+    "target_households": 1654,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115286"
+  },
+  {
+    "precinct_id": "403.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 2012,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115330"
+  },
+  {
+    "precinct_id": "404.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 1838,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115383"
+  },
+  {
+    "precinct_id": "405.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1986,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115437"
+  },
+  {
+    "precinct_id": "406.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 1675,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115503"
+  },
+  {
+    "precinct_id": "407.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 1320,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115575"
+  },
+  {
+    "precinct_id": "408.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 1463,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115643"
+  },
+  {
+    "precinct_id": "409.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 1143,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115689"
+  },
+  {
+    "precinct_id": "415.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 3296,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115743"
+  },
+  {
+    "precinct_id": "416.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1208,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115789"
+  },
+  {
+    "precinct_id": "417.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 1186,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115839"
+  },
+  {
+    "precinct_id": "418.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1857,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115890"
+  },
+  {
+    "precinct_id": "419.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 1153,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.115957"
+  },
+  {
+    "precinct_id": "420.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 3321,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116025"
+  },
+  {
+    "precinct_id": "421.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 93,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116093"
+  },
+  {
+    "precinct_id": "422.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 1399,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116155"
+  },
+  {
+    "precinct_id": "500.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 60,
+    "target_households": 1464,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116201"
+  },
+  {
+    "precinct_id": "501.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 2829,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116247"
+  },
+  {
+    "precinct_id": "502.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 2127,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116293"
+  },
+  {
+    "precinct_id": "503.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 1676,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116337"
+  },
+  {
+    "precinct_id": "504.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 2665,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116381"
+  },
+  {
+    "precinct_id": "505.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 2336,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116427"
+  },
+  {
+    "precinct_id": "506.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 2274,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116472"
+  },
+  {
+    "precinct_id": "507.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 2082,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116517"
+  },
+  {
+    "precinct_id": "508.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 1738,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116577"
+  },
+  {
+    "precinct_id": "509.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 1204,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116623"
+  },
+  {
+    "precinct_id": "510.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 64,
+    "target_households": 2070,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116675"
+  },
+  {
+    "precinct_id": "511.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 2881,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116729"
+  },
+  {
+    "precinct_id": "512.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 68,
+    "target_households": 882,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116775"
+  },
+  {
+    "precinct_id": "513.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 87,
+    "target_households": 2396,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116820"
+  },
+  {
+    "precinct_id": "514.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2358,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116865"
+  },
+  {
+    "precinct_id": "515.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 2523,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.116936"
+  },
+  {
+    "precinct_id": "516.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 67,
+    "target_households": 3459,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117007"
+  },
+  {
+    "precinct_id": "517.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 2188,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117066"
+  },
+  {
+    "precinct_id": "518.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 4773,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117140"
+  },
+  {
+    "precinct_id": "519.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 2890,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117224"
+  },
+  {
+    "precinct_id": "520.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 1077,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117274"
+  },
+  {
+    "precinct_id": "521.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2052,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117326"
+  },
+  {
+    "precinct_id": "522.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 3875,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117386"
+  },
+  {
+    "precinct_id": "523.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 1930,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117433"
+  },
+  {
+    "precinct_id": "524.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 1198,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117478"
+  },
+  {
+    "precinct_id": "525.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 963,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117529"
+  },
+  {
+    "precinct_id": "526.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 5367,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117579"
+  },
+  {
+    "precinct_id": "527.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2774,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117630"
+  },
+  {
+    "precinct_id": "528.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 2007,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117678"
+  },
+  {
+    "precinct_id": "529.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 2020,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117728"
+  },
+  {
+    "precinct_id": "530.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 2844,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117786"
+  },
+  {
+    "precinct_id": "531.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 2833,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117845"
+  },
+  {
+    "precinct_id": "532.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 1984,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117892"
+  },
+  {
+    "precinct_id": "533.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1946,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117936"
+  },
+  {
+    "precinct_id": "534.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 2392,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.117979"
+  },
+  {
+    "precinct_id": "535.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 3705,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118023"
+  },
+  {
+    "precinct_id": "536.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 79,
+    "target_households": 2774,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118066"
+  },
+  {
+    "precinct_id": "537.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 3795,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118112"
+  },
+  {
+    "precinct_id": "538.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 5093,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118156"
+  },
+  {
+    "precinct_id": "539.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 2884,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118210"
+  },
+  {
+    "precinct_id": "540.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 5201,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118257"
+  },
+  {
+    "precinct_id": "541.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 2218,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118302"
+  },
+  {
+    "precinct_id": "542.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 4505,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118348"
+  },
+  {
+    "precinct_id": "543.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 2150,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118395"
+  },
+  {
+    "precinct_id": "544.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 3354,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118439"
+  },
+  {
+    "precinct_id": "545.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 1359,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118484"
+  },
+  {
+    "precinct_id": "600.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 100,
+    "target_households": 4,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118532"
+  },
+  {
+    "precinct_id": "601.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 4585,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118603"
+  },
+  {
+    "precinct_id": "602.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 86,
+    "target_households": 2614,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118666"
+  },
+  {
+    "precinct_id": "603.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2622,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118734"
+  },
+  {
+    "precinct_id": "604.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 772,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118784"
+  },
+  {
+    "precinct_id": "605.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 64,
+    "target_households": 2028,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118848"
+  },
+  {
+    "precinct_id": "606.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 2292,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118919"
+  },
+  {
+    "precinct_id": "607.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 72,
+    "target_households": 2198,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.118995"
+  },
+  {
+    "precinct_id": "608.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1990,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119078"
+  },
+  {
+    "precinct_id": "609.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 74,
+    "target_households": 1935,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119158"
+  },
+  {
+    "precinct_id": "610.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1665,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119235"
+  },
+  {
+    "precinct_id": "611.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 2465,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119296"
+  },
+  {
+    "precinct_id": "612.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 2131,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119355"
+  },
+  {
+    "precinct_id": "613.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 1441,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119406"
+  },
+  {
+    "precinct_id": "614.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 3528,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119458"
+  },
+  {
+    "precinct_id": "615.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 2716,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119516"
+  },
+  {
+    "precinct_id": "616.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 3042,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119586"
+  },
+  {
+    "precinct_id": "617.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 3716,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119651"
+  },
+  {
+    "precinct_id": "618.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 1393,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119718"
+  },
+  {
+    "precinct_id": "619.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 1672,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119767"
+  },
+  {
+    "precinct_id": "620.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2835,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119812"
+  },
+  {
+    "precinct_id": "621.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 78,
+    "target_households": 2814,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119860"
+  },
+  {
+    "precinct_id": "622.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 4142,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119917"
+  },
+  {
+    "precinct_id": "623.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 85,
+    "target_households": 3033,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.119985"
+  },
+  {
+    "precinct_id": "624.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1504,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120060"
+  },
+  {
+    "precinct_id": "625.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2281,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120121"
+  },
+  {
+    "precinct_id": "626.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2160,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120167"
+  },
+  {
+    "precinct_id": "627.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 5829,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120213"
+  },
+  {
+    "precinct_id": "628.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1775,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120281"
+  },
+  {
+    "precinct_id": "629.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 1922,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120335"
+  },
+  {
+    "precinct_id": "630.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1905,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120378"
+  },
+  {
+    "precinct_id": "631.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 2209,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120423"
+  },
+  {
+    "precinct_id": "632.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 89,
+    "target_households": 3110,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120466"
+  },
+  {
+    "precinct_id": "633.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 3775,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120528"
+  },
+  {
+    "precinct_id": "634.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 81,
+    "target_households": 1838,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120575"
+  },
+  {
+    "precinct_id": "635.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 2621,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120618"
+  },
+  {
+    "precinct_id": "636.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 84,
+    "target_households": 2524,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120662"
+  },
+  {
+    "precinct_id": "637.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 5338,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120711"
+  },
+  {
+    "precinct_id": "638.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 83,
+    "target_households": 3443,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120773"
+  },
+  {
+    "precinct_id": "701.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 80,
+    "target_households": 4145,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120839"
+  },
+  {
+    "precinct_id": "702.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 75,
+    "target_households": 1858,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120906"
+  },
+  {
+    "precinct_id": "703.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 1427,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.120953"
+  },
+  {
+    "precinct_id": "704.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 71,
+    "target_households": 2872,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.121004"
+  },
+  {
+    "precinct_id": "705.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 2512,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.121060"
+  },
+  {
+    "precinct_id": "706.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 76,
+    "target_households": 2444,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.121112"
+  },
+  {
+    "precinct_id": "710.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 77,
+    "target_households": 630,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.121157"
+  },
+  {
+    "precinct_id": "711.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 82,
+    "target_households": 2940,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.121214"
+  },
+  {
+    "precinct_id": "712.0",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 70,
+    "target_households": 3908,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.121288"
+  },
+  {
+    "precinct_id": "nan",
+    "district_id": "6",
+    "zip": "UNKNOWN",
+    "priority_score": 73,
+    "target_households": 23033,
+    "demographic_profile": "UNKNOWN",
+    "key_issues": [],
+    "recommended_script": "TBD",
+    "canvassing_routes": [],
+    "performance_metrics": {
+      "doors_knocked": 0,
+      "contacts_made": 0,
+      "supporters_identified": 0,
+      "volunteer_interest": 0,
+      "sentiment": "unknown"
+    },
+    "last_updated": "2025-04-11T08:16:35.121354"
+  }
+]
