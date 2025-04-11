@@ -1,0 +1,46 @@
+# streamlit_app.py
+import streamlit as st
+import json
+import pandas as pd
+from precinct_strategy_engine import PrecinctStrategyEngine
+
+st.set_page_config(layout="wide")
+st.title("📍 District 6 Precinct Strategy Dashboard")
+
+# Load precinct data engine
+engine = PrecinctStrategyEngine("precinct_strategy_engine/precincts.json")
+
+# Sidebar - precinct selector
+precinct_ids = [p['precinct_id'] for p in engine.get_all_precincts()]
+selected_precinct = st.sidebar.selectbox("Select Precinct", precinct_ids)
+
+# Load selected precinct
+precinct = engine.get_precinct(selected_precinct)
+
+# Display basic info
+col1, col2 = st.columns(2)
+col1.metric("🎯 Priority Score", precinct['priority_score'])
+col2.metric("🏠 Target Households", precinct['target_households'])
+
+st.subheader("🧠 Strategy & Messaging")
+st.markdown(f"**Demographic Profile:** {precinct['demographic_profile']}")
+st.markdown(f"**Key Issues:** {', '.join(precinct['key_issues']) if precinct['key_issues'] else 'None listed'}")
+st.code(precinct['recommended_script'], language='markdown')
+
+# Update fields
+with st.expander("✏️ Update Precinct Strategy"):
+    new_score = st.slider("Priority Score", 0, 100, precinct['priority_score'])
+    new_script = st.text_area("Recommended Script", precinct['recommended_script'])
+    new_issues = st.text_input("Key Issues (comma-separated)", ", ".join(precinct['key_issues']))
+    if st.button("💾 Save Changes"):
+        updates = {
+            "priority_score": new_score,
+            "recommended_script": new_script,
+            "key_issues": [i.strip() for i in new_issues.split(',') if i.strip()]
+        }
+        engine.update_precinct(precinct['precinct_id'], updates)
+        st.success("Precinct updated!")
+
+# Show metrics
+st.subheader("📊 Performance Metrics")
+st.json(precinct['performance_metrics'])
